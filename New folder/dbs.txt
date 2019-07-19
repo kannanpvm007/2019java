@@ -1,0 +1,311 @@
+CREATE TABLE student(id INT (5), NAME VARCHAR (20), dep VARCHAR(21));demosql\
+
+
+
+
+SELECT student.id, age,NAME, address , dep FROM student right   JOIN  address  ON address.id =student.id;
+
+
+SELECT student.id, age,NAME, address , dep FROM student left JOIN  address  ON address.id =student.id;
+
+
+__________exceas __ Course___________________________________________________
+
+CREATE TABLE Course(CourseId INT (4) PRIMARY KEY, CourseName	VARCHAR(20), 
+Duration	INT (2),Fees	INT (7.2) not NULL);
+
+
+INSERT INTO   Course(CourseId , CourseName, Duration	,Fees	) VALUES (1001,'Java',4	,5000.00),
+(1002	,		'C++'	,		2	,		4000.00),
+(1003		,	'Linux and C',		3,			4000.00) ,
+(1004		,	'Oracle'	,		2	,		3000.00),
+(1005		,	'Web'		,	6		,	10000.00)
+
+
+________________Student________________________________________________________________
+create table Student(StudId INT (4)Primary KEY, FirstName VARCHAR(20) not NULL,
+	  LastName			VARCHAR(20),
+	  Street				VARCHAR(20) ,
+	  City				VARCHAR(20)  not NULL,
+	  DOB	DATE not NULL
+)
+
+INSERT INTO student (studid  , firstname,lastname   ,   street,city  ,  dob)  
+
+VALUES('3001','Dileep','Kumar','AnnaNagar','Banglore','1979-03-10'),
+
+('3002','Anand','Kumar','IndiraNagar','Bangalore','1978-01-19'),
+('3003','Bala','Krishnan','KPNagar','Chennai','1980-03-01'),
+
+('3004',  'Gowri' , 'Shankar' ,'AnnaNagar' 	,'Coimbatore' 	,'1977-12-22'),
+('3005','Priya','Menon','JPNagar','Cochin' ,'1980-02-12'),
+('3006', 'Prem', 'Kumar','MGNagar','Coimbatore','1977-05-17'),
+('3007','Rahul','Dravid' ,'KPNagar','Chennai' ,'1977-10-08'),
+('3008' ,'John'  ,'Dravid','MGColony','Chennai','1980-09-15'),
+('3009' ,'Abdul','Raheem','JBNagar','Bangalore','1978-01-19');
+
+___________________registration___________________________________________________________________
+
+
+
+CREATE TABLE registration (
+    courseid int(4),
+    studid int(4), 
+		doj DATE NOT NULL,
+		 FOREIGN KEY(courseid) REFERENCES course(courseid),
+		  FOREIGN KEY(studid) REFERENCES student(studid),
+		PRIMARY KEY(courseid,studid));
+
+
+
+
+INSERT INTO   registration (courseid,studid,doj ) VALUES 
+('1001' ,	'3005'	,			'1999-03-10'),
+('1002'		,			'3002'	,			'1999-04-18'),
+('1002'		,			'3003'	,		    '1999-04-18'),
+('1002'		,			'3008'	,			'1999-04-18'),
+('1003'		,			'3001'	,			'1999-06-06') ,
+('1003' 		,			'3004' 	,			'1999-06-6'),
+('1003'		,			'3006'	,		'1999-06-06'),
+('1004'		,			'3005'	,			'1999-03-10'),
+('1004'		,			'3007'	,		'1999-03-10'),
+('1004'       ,          '	3008',				'1999-03-10'),
+('1005'		,			'3004'	,			'1999-05-25'),
+('1005'		,			'3005'	,		
+
+
+________________________________//_____________________________________
+ Queries:
+
+1.	Write a SQL query to add a field – Age NUMBER(3) on to the STUDENT table.
+
+           ALTER TABLE  student ADD age INT (3);
+
+
+
+
+2.Write a SQL query to add a constraint in COURSE table to check the fees entered is greater than zero.
+              
+              ALTER TABLE  course 
+              ADD CONSTRAINT cheackcon  CHECK (fees>0);
+
+
+ 
+3.	Write a SQL query to calculate the value of the Age Field using the DOB field.
+
+
+           
+SELECT * FROM student WHERE DATE_FORMAT(dob,"%m") > '04' AND DATE_FORMAT(dob,"%m")<'09';
+(or)
+ SELECT *,YEAR(curdate())-year(dob) AS  Age from student
+
+
+
+
+
+
+
+
+
+4.	Write a SQL query to decrease the fees by Rs.500 whose duration is less than or equal to 3 months.
+
+
+               UPDATE  course SET fees =(fees-500) WHERE (Duration<=3);
+
+
+
+5.	Write a SQL query to delete the student whose LastName is ‘David’ and the city is ‘Chennai’.
+
+
+
+                DELETE FROM student  WHERE lastname='David'  AND city='Chennai';
+
+
+6.	Write a SQL query to display all the records from the COURSE table.
+                   
+              SELECT * FROM  course
+
+7.	Write a SQL query to display the firstname,lastname and contact them to display as a full name from the STUDENT Table.      
+       
+                    
+	SELECT CONCAT(FIRSTName,LASTName) from student;
+
+
+8.	Write a SQL query to display the details of the course ‘C++’ from the COURSE Table.
+
+            SELECT * FROM course WHERE courseName = 'c++';
+
+
+
+9.	Write a SQL query to display the details from the COURSE Table, which has a fees more than 4000.
+		SELECT * FROM course WHERE fees >=4000;
+
+
+10.Write a SQL query to display the details fom the COURSE table, which has a duration of 2 to 4 months.
+                   SELECT * FROM course WHERE Duration BETWEEN 2 AND 4;
+                                      (or)
+                   SELECT * FROM course WHERE Duration >=2 AND duration<= 4; 
+
+
+11.Write a SQL query to display the students details whose birthday lies in the months between APR and SEP.
+
+   SELECT * FROM student WHERE DATE_FORMAT(dob,"%m") > '04' AND DATE_FORMAT(dob,"%m")<'09';
+
+
+12.Write a SQL query to display the details from the COURSE table which has the duration of 
+   2 months and has a fees of more than 3000.
+
+            SELECT * FROM course WHERE  Duration= 2 AND Fees >3000;
+
+
+13.Write a SQL query to display the details of the students whose IDs are 3002,3004 and 3005 from the STUDENT table.
+                     SELECT * FROM student WHERE  studid IN (3002,3004 ,3005)
+
+
+
+14.Write a SQL query to display the details from the STUDENT Table who has the same last name as ‘Kumar’.
+
+       
+                   SELECT * FROM student WHERE  lastName='Kumar'
+
+
+
+
+15.Write a SQL query to display the details from the STUDENT Table whose firstName starts with ‘A’.
+
+                  SELECT * FROM student WHERE  firstname LIKE  'A%'
+
+
+
+16.Write a SQL query to display the details from the STUDENT Table who came from ‘Bangalore’ City and has the LastName as ‘Kumar’.
+
+
+ SELECT * FROM student WHERE  city='Bangalore' AND  lastName='Kumar'
+
+
+17. Write a SQL query to display the details from the STUDENT Table whose street name ends with ‘Nagar’
+
+           SELECT street FROM student WHERE   lastName='Kumar'
+                       (or)
+
+          SELECT street FROM student WHERE   lastName LIKE '%Kumar'
+
+
+
+18. Write a SQL query to display the details of students ‘Dileep’ and ‘Abdul’ from the STUDENT Table.
+
+         SELECT * FROM student WHERE   firstname IN ('Dileep' , 'Abdul')
+
+
+19.Write a SQL query to display the eldest student.
+
+
+
+
+
+20.	 Write a SQL query to display the details of the students whose ID is other than 3004 and 3006 from the STUDENT table.
+
+     SELECT *FROM student WHERE studid NOT IN (3004,3006)
+
+
+
+21.Write a SQL query to display the maximum, minimum and the average fees from the COURSE table.
+    SELECT MIN(fees),MAX(fees),AVG(fees) FROM course;
+
+
+
+22.Write a SQL query to display the total number of students from STUDENT table.
+
+         SELECT COUNT(firstname) FROM student;
+
+
+23.Write a SQL query to display the cities from the STUDENT table and each city should be displayed only once.
+      SELECT  DISTINCT city FROM student;
+
+
+24.Write a SQL query to display all the student details in the order of their DOB in descending order.
+        
+    SELECT * FROM student ORDER BY dob DESC ;
+
+
+25.Write a SQL query to display the total number of students who joined on 10-MAR-1999.
+          SELECT  COUNT(studid) FROM REGISTRATION  WHERE DOJ='1999-03-10'
+
+
+26.Write a SQL query to display the first name in uppercase, lowercase and in propercase.
+                    SELECT  UPPER (firstname),LOWER (firstname) FROM student
+(not work)
+select CONCAT (UPPER (SUBSTRING (firstname1,1))  ,LOWER(SUBSTRING(firstname FROM 2))) FROM student 
+
+
+
+27.	 Write a SQL query to display the last 3 characters from the first name.
+
+
+             SELECT RIGHT(firstname,3) from student;
+
+
+28.Write a SQL query to display the total number of Students for each course.
+              SELECT  COUNT(studid), FROM registration  GROUP BY studid HAVING COUNT(courseid)>1 ;
+
+
+
+29.Write a SQL query to display the students IDs who have joined for more than one course.
+
+
+
+        SELECT studid FROM registration GROUP BY studid HAVING COUNT(courseid)>1;
+
+30.Write a SQL query to display all student details whose first name is of 4 characters length.
+
+
+            SELECT * FROM student WHERE LENGTH(firstname)=4;
+
+
+
+SUBQUERIES AND JOINS::::::::
+        
+
+1.Write a SQL query to display the course details whose fees is lesser than the maximum fees.
+
+
+       
+      SELECT * FROM course WHERE fees NOT IN (SELECT MAX(fees) FROM course);
+
+
+
+2.Write a SQL query to display the students who are elder to ‘BalaKrishnan’.
+         
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

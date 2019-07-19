@@ -1,0 +1,1 @@
+SELECT FLOOR (student (DAY, @dob, @TargetDate) / 365.25)

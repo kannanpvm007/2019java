@@ -1,0 +1,1 @@
+INSERT INTO address (id,age,address)VALUE (102,'35','vedraniyam'),(101,'24','thanjavur')

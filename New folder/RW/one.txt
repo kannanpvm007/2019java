@@ -1,0 +1,11 @@
+1. Reads a text file and makes an alphabetical list of all the words in that file
+
+2. Number of times that each word occurs in the file (case sensitive)
+
+3. Write each file name, along with the number of lines in that file
+
+4. Write a phone directory program that keeps its list of names and phone numbers in a file.
+
+5. Folder sync/copy
+
+6. To get specific files by extensions from a specified folder

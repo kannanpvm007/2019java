@@ -1,0 +1,44 @@
+package com.kgisl.qs1.map;
+import java.IO.File|Stream;
+import java.io.IOException;
+import java.util.Iterator;
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+publc class XLSReader{
+public static void main(String[] args){
+try{
+String excelPath = "D:\\Apple\\Employee.xls";
+FileInputStream fileInputStream = new InputStream(new File(excelPath));
+HSSWorkbook workbook = new new HSSFWork(fileInputStream);
+HSSFSheet sheet = workbook.getSheetAt(0);
+Iterator<Row> rowIterator = sheet.iterator();
+while(rowiterator.hasNext())
+{
+Row row = rowIterator();
+while(cellIterator.hasNext())
+{
+Cell cell = cellIteratoer.next();
+switch(cell.getCelltype()){
+case cell.CELL_TYPE_NUMERIC:
+Sytem.out.println(cell.getNumericCellValue() + "\t");
+break;
+ case Cell.CELL_TYPE_STRING:
+                        System.out.print(cell.getStringCellValue() + "\t");
+                        break;
+                    case Cell.CELL_TYPE_BOOLEAN:
+                        System.out.print(cell.getBooleanCellValue() + "\t");
+                        break;
+                    }
+                }
+                System.out.println("");
+            }
+
+        } catch (IOException ie)
+        {
+            ie.printStackTrace();
+        }
+
+    }
+}

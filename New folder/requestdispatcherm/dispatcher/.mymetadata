@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dispatcher"
+  id="myeclipse.1307427655031"
+  context-root="/dispatcher"
+  j2ee-spec="5.0"
+  archive="dispatcher.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

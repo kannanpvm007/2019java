@@ -1,0 +1,20 @@
+10. Combine two text files
+ 1. Reads a text file and makes an alphabetical list of all the words in that file
+
+ 
+11. Append content from one file to another file's existing content
+ 2. Number of times that each word occurs in the file (case sensitive)
+
+ 
+12. Read any 3 lines from starting line in a file
+ 3. Write each file name, along with the number of lines in that file
+
+ 
+13. To display file names, Date created in asc/desc
+ 4. Write a phone directory program that keeps its list of names and phone numbers in a file.
+
+ 
+14. File search within folder and subfolder
+ 5. Folder sync/copy
+
+6. To get specific files by extensions from a specified folder

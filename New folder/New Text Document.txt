@@ -1,0 +1,67 @@
+package com.kgisl.calculator1;
+
+
+import static org.junit.Assert.assertEquals;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.List;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
+import org.junit.runners.Parameterized.Parameters;
+
+@RunWith(Parameterized.class)
+public class CalculatorParamsTest {
+   private int fn;
+   private int sn;
+
+   Calculator c = new Calculator();
+
+   public CalculatorParamsTest(int fn, int sn) {
+       this.fn = fn;
+       this.sn = sn;
+   }
+
+   @Parameters
+   public static Collection input() {
+                  return Arrays.asList(new Object[][] { { 10, 20 }, { 30, 40 } });
+       //ArrayList<Integer> al = new ArrayList<Integer>();
+       
+   }
+
+   @Test
+   public void addTest() {
+       int actual = c.add(fn, sn);
+       int expected = fn + sn;
+       assertEquals(expected, actual);
+   }
+
+   @Test
+   public void subTest() {
+       int actual = c.sub(fn, sn);
+       int expected = fn - sn;
+       assertEquals(expected, actual);
+   }
+
+   @Test
+   public void mulTest() {
+       int actual = c.mul(fn, sn);
+       int expected = fn * sn;
+       assertEquals(expected, actual);
+   }
+
+   @Test
+   public void divTest() {
+       // int actual = c.div(fn, sn);
+       // int expected = fn/sn;
+       // assertEquals(expected, actual);
+       System.out.println(fn);
+       System.out.println(sn);
+       int actual = c.div(fn, sn);
+       int expected = 10 / 20;
+       assertEquals(expected, actual);
+   }
+}

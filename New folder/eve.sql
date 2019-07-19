@@ -1,0 +1,1 @@
+SELECT *,YEAR(curdate())-year(dob) AS Age from student

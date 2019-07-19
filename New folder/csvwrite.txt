@@ -1,0 +1,163 @@
+
+xlsx File Read
+File myFile = new File("C://temp/Employee.xlsx");
+            FileInputStream fis = new FileInputStream(myFile);
+
+            XSSFWorkbook myWorkBook = new XSSFWorkbook (fis);
+           
+            
+            XSSFSheet mySheet = myWorkBook.getSheetAt(0);
+           
+            
+            Iterator<Row> rowIterator = mySheet.iterator();
+           
+           
+            while (rowIterator.hasNext()) {
+                Row row = rowIterator.next();
+
+               
+                Iterator<Cell> cellIterator = row.cellIterator();
+                while (cellIterator.hasNext()) {
+
+                    Cell cell = cellIterator.next();
+
+                    switch (cell.getCellType()) {
+                    case Cell.CELL_TYPE_STRING:
+                        System.out.print(cell.getStringCellValue() + "\t");
+                        break;
+                    case Cell.CELL_TYPE_NUMERIC:
+                        System.out.print(cell.getNumericCellValue() + "\t");
+                        break;
+                    case Cell.CELL_TYPE_BOOLEAN:
+                        System.out.print(cell.getBooleanCellValue() + "\t");
+                        break;
+                    default :
+                 
+                    }
+                }
+                System.out.println("");
+            }
+
+xlsx File Write
+Map<String, Object[]> data = new HashMap<String, Object[]>();
+            data.put("7", new Object[] {7d, "Sonya", "75K", "SALES", "Rupert"});
+            data.put("8", new Object[] {8d, "Kris", "85K", "SALES", "Rupert"});
+            data.put("9", new Object[] {9d, "Dave", "90K", "SALES", "Rupert"});
+         
+            Set<String> newRows = data.keySet();
+         
+                
+            int rownum = mySheet.getLastRowNum();         
+         
+            for (String key : newRows) {
+             
+              
+                Row row = mySheet.createRow(rownum++);
+                Object [] objArr = data.get(key);
+                int cellnum = 0;
+                for (Object obj : objArr) {
+                    Cell cell = row.createCell(cellnum++);
+                    if (obj instanceof String) {
+                        cell.setCellValue((String) obj);
+                    } else if (obj instanceof Boolean) {
+                        cell.setCellValue((Boolean) obj);
+                    } else if (obj instanceof Date) {
+                        cell.setCellValue((Date) obj);
+                    } else if (obj instanceof Double) {
+                        cell.setCellValue((Double) obj);
+                    }
+                }
+            }
+         
+            FileOutputStream os = new FileOutputStream(myFile);
+            myWorkBook.write(os);
+            System.out.println("Writing on XLSX file Finished ...");
+
+
+ReaderWriter
+
+
+public class XLSXReaderWriter {
+
+    public static void main(String[] args) {
+
+        try {
+            File excel = new File("C://temp/Employee.xlsx");
+            FileInputStream fis = new FileInputStream(excel);
+            XSSFWorkbook book = new XSSFWorkbook(fis);
+            XSSFSheet sheet = book.getSheetAt(0);
+
+            Iterator<Row> itr = sheet.iterator();
+
+            
+            while (itr.hasNext()) {
+                Row row = itr.next();
+
+                
+                Iterator<Cell> cellIterator = row.cellIterator();
+                while (cellIterator.hasNext()) {
+
+                    Cell cell = cellIterator.next();
+
+                    switch (cell.getCellType()) {
+                    case Cell.CELL_TYPE_STRING:
+                        System.out.print(cell.getStringCellValue() + "\t");
+                        break;
+                    case Cell.CELL_TYPE_NUMERIC:
+                        System.out.print(cell.getNumericCellValue() + "\t");
+                        break;
+                    case Cell.CELL_TYPE_BOOLEAN:
+                        System.out.print(cell.getBooleanCellValue() + "\t");
+                        break;
+                    default:
+
+                    }
+                }
+                System.out.println("");
+            }
+
+            
+            Map<String, Object[]> newData = new HashMap<String, Object[]>();
+            newData.put("7", new Object[] { 7d, "Sonya", "75K", "SALES",
+                    "Rupert" });
+            newData.put("8", new Object[] { 8d, "Kris", "85K", "SALES",
+                    "Rupert" });
+            newData.put("9", new Object[] { 9d, "Dave", "90K", "SALES",
+                    "Rupert" });
+
+            Set<String> newRows = newData.keySet();
+            int rownum = sheet.getLastRowNum();
+
+            for (String key : newRows) {
+                Row row = sheet.createRow(rownum++);
+                Object[] objArr = newData.get(key);
+                int cellnum = 0;
+                for (Object obj : objArr) {
+                    Cell cell = row.createCell(cellnum++);
+                    if (obj instanceof String) {
+                        cell.setCellValue((String) obj);
+                    } else if (obj instanceof Boolean) {
+                        cell.setCellValue((Boolean) obj);
+                    } else if (obj instanceof Date) {
+                        cell.setCellValue((Date) obj);
+                    } else if (obj instanceof Double) {
+                        cell.setCellValue((Double) obj);
+                    }
+                }
+            }
+
+         
+            FileOutputStream os = new FileOutputStream(excel);
+            book.write(os);
+            System.out.println("Writing on Excel file Finished ...");
+            os.close();
+            book.close();
+            fis.close();
+
+        } catch (FileNotFoundException fe) {
+            fe.printStackTrace();
+        } catch (IOException ie) {
+            ie.printStackTrace();
+        }
+    }
+}

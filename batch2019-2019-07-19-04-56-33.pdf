@@ -1,0 +1,1781 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 4044>>
+stream
+0.57 w
+0 G
+q
+q BT 0 g 11.34 819.35 Td
+0 -13.50 Td
+0.000 g
+/F2 13.50 Tf (#batch2019) Tj
+ET Q
+q BT 0 g 11.34 794.64 Td
+0 -12.00 Td
+/F2 10.53 Tf (Tue, June 4th 2019) Tj
+ET Q
+q BT 0 g 11.34 772.11 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:05 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (http://candidjava.com/tutorial/servlet-jsp-httpsession-login-logout-example/) Tj
+ET Q
+q BT 0 g 11.34 751.11 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Servlet Jsp HttpSession Login logout example | Http session login logout - Candidjava) Tj
+ET Q
+q BT 0 g 11.34 730.11 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:06 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (http://java.candidjava.com/tutorial/Servlet-Jsp-HttpSession-Login-logout-example.htm) Tj
+ET Q
+q BT 0 g 11.34 709.11 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Servlet, Jsp, HttpSession, Login, logout, example, tutorial, download) Tj
+ET Q
+q BT 0 g 11.34 686.58 Td
+0 -12.00 Td
+/F2 10.53 Tf (Thu, June 6th 2019) Tj
+ET Q
+q BT 0 g 11.34 664.05 Td
+0 -12.00 Td
+/F1 9.00 Tf (2:19 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: PLSQL PPT) Tj
+ET Q
+q BT 0 g 11.34 641.52 Td
+0 -12.00 Td
+/F2 10.53 Tf (Sat, June 8th 2019) Tj
+ET Q
+q BT 0 g 11.34 606.94 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:33 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://stackoverflow.com/questions/2422468/how-to-upload-files-to-server-using-jsp-servlet) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.codejava.net/java-ee/servlet/java-file-upload-example-with-servlet-30-api) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.baeldung.com/upload-file-servlet) Tj
+ET Q
+q BT 0 g 11.34 549.89 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (How to upload files to server using JSP/Servlet?) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Java File Upload Example with Servlet 3.0 API) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Uploading Files with Servlets and JSP | Baeldung) Tj
+ET Q
+q BT 0 g 11.34 503.36 Td
+0 -12.00 Td
+/F2 10.53 Tf (Mon, June 10th 2019) Tj
+ET Q
+q BT 0 g 11.34 480.83 Td
+0 -12.00 Td
+/F1 9.00 Tf (6:13 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.codejava.net/coding/jsp-servlet-jdbc-mysql-create-read-update-delete-crud-example) Tj
+ET Q
+q BT 0 g 11.34 459.83 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (JSP Servlet JDBC MySQL Create Read Update Delete \(CRUD\) Example) Tj
+ET Q
+q BT 0 g 11.34 437.30 Td
+0 -12.00 Td
+/F2 10.53 Tf (Tue, June 11th 2019) Tj
+ET Q
+q BT 0 g 11.34 378.61 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:46 AM ) Tj
+/F2 9.00 Tf (mohanasankari.g) Tj
+/F1 9.00 Tf (: CREATE PROCEDURE insertuser1) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( \(IN id INT ,) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( IN uname VARCHAR\(20\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( \)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( BEGIN) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( INSERT INTO USER VALUES\(id,uname\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( END;) Tj
+ET Q
+q BT 0 g 11.34 279.58 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:47 AM ) Tj
+/F2 9.00 Tf (mohanasankari.g) Tj
+/F1 9.00 Tf (: CALL insertuser1\(12,'aaa'\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( SELECT * FROM USER;) Tj
+ET Q
+q BT 0 g 11.34 198.37 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:47 AM ) Tj
+/F2 9.00 Tf (mohanasankari.g) Tj
+/F1 9.00 Tf (: CREATE PROCEDURE CountOrderByStatus1\() Tj
+0 -12.00 Td
+/F1 9.00 Tf ( IN ucccode VARCHAR\(25\),) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( OUT total INT\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( BEGIN) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( SELECT count\(ucccode\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( INTO total) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( FROM trade) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( WHERE trade.ucccode = ucccode;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( END;) Tj
+ET Q
+q BT 0 g 11.34 75.34 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:47 AM ) Tj
+/F2 9.00 Tf (mohanasankari.g) Tj
+/F1 9.00 Tf (: CALL CountOrderByStatus1\('ucccode1',@total\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( SELECT ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@total) Tj
+0.000 g
+/F1 9.00 Tf (;) Tj
+ET Q
+q BT 0 g 11.34 42.34 Td
+0 -12.00 Td
+ET Q
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<</Length 5056>>
+stream
+0.57 w
+0 G
+q BT 0 g 11.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+/F1 9.00 Tf (2:25 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.codejava.net/java-se/jdbc/jdbc-examples-for-calling-stored-procedures-mysql) Tj
+ET Q
+q BT 0 g 11.34 820.89 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (JDBC Examples for Calling Stored Procedures \(MySQL\)) Tj
+ET Q
+q BT 0 g 11.34 798.36 Td
+0 -12.00 Td
+/F2 10.53 Tf (Wed, June 12th 2019) Tj
+ET Q
+q BT 0 g 11.34 775.83 Td
+0 -12.00 Td
+/F1 9.00 Tf (8:52 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.guru99.com/jsp-tutorial.html) Tj
+ET Q
+q BT 0 g 11.34 754.83 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (JSP Tutorial for Beginners: Learn in 7 Days) Tj
+ET Q
+q BT 0 g 11.34 732.30 Td
+0 -12.00 Td
+/F2 10.53 Tf (Fri, June 14th 2019) Tj
+ET Q
+q BT 0 g 11.34 673.61 Td
+0 -12.00 Td
+/F1 9.00 Tf (5:24 PM ) Tj
+/F2 9.00 Tf (ramya.a) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://tomcat.apache.org/download-80.cgi) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( VSCode --> Tomcat for java extension install) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( VSCode --> file explorer --> tomcat servers + \(add tomcat installation directory\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Run Tomcat server) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Target --> Right click on war --> run on tomcat server) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( VSCode --> file explorer --> tomcat servers --> Expnad --> Open in browser --> ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (http://localhost:8080/) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( Click your Application) Tj
+ET Q
+q BT 0 g 11.34 580.61 Td
+0 -12.00 Td
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://stackoverflow.com/questions/5109112/how-to-deploy-a-war-file-in-tomcat-7) Tj
+ET Q
+q BT 0 g 11.34 559.61 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (How to deploy a war file in Tomcat 7) Tj
+ET Q
+q BT 0 g 11.34 537.08 Td
+0 -12.00 Td
+/F2 10.53 Tf (Mon, June 17th 2019) Tj
+ET Q
+q BT 0 g 11.34 514.55 Td
+0 -12.00 Td
+/F1 9.00 Tf (12:48 PM ) Tj
+/F2 9.00 Tf (sasikumar.b) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://spring.io/projects) Tj
+ET Q
+q BT 0 g 11.34 493.55 Td
+0 -12.00 Td
+/F1 9.00 Tf (https://dzone.com/articles/why-spring-framework-is-popular) Tj
+ET Q
+q BT 0 g 11.34 472.55 Td
+0 -12.00 Td
+/F1 9.00 Tf (https://himanshugpt.files.wordpress.com/2010/07/spring.png?w=503&h=398) Tj
+ET Q
+q BT 0 g 11.34 451.55 Td
+0 -12.00 Td
+/F1 9.00 Tf (https://memorynotfound.com/spring-mvc-xml-configuration-example/) Tj
+ET Q
+q BT 0 g 11.34 430.55 Td
+0 -12.00 Td
+/F1 9.00 Tf (https://stackoverflow.com/questions/18486660/what-are-the-differences-between-model-modelmap-and-modelandview) Tj
+ET Q
+q BT 0 g 11.34 403.53 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Spring Projects) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Why Is the Spring Framework so Popular? - DZone Java) Tj
+ET Q
+q BT 0 g 11.34 364.50 Td
+0 -12.00 Td
+/F1 9.00 Tf (Spring MVC XML Configuration Example) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( What are the differences between Model, ModelMap, and ModelAndView?) Tj
+ET Q
+q BT 0 g 11.34 329.97 Td
+0 -12.00 Td
+/F2 10.53 Tf (Wed, June 19th 2019) Tj
+ET Q
+q BT 0 g 11.34 307.44 Td
+0 -12.00 Td
+/F1 9.00 Tf (12:45 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.baeldung.com/spring-requestmapping) Tj
+ET Q
+q BT 0 g 11.34 286.44 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Spring ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@RequestMapping) Tj
+0.000 g
+/F1 9.00 Tf ( | Baeldung) Tj
+ET Q
+q BT 0 g 11.34 263.91 Td
+0 -12.00 Td
+/F2 10.53 Tf (Thu, June 20th 2019) Tj
+ET Q
+q BT 0 g 11.34 229.33 Td
+0 -12.00 Td
+/F1 9.00 Tf (11:50 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.w3schools.com/xml/ajax_xmlhttprequest_create.asp) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.w3schools.com/tags/ref_httpmessages.asp) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.codejava.net/frameworks/spring/spring-mvc-with-jdbctemplate-example) Tj
+ET Q
+q BT 0 g 11.34 172.27 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (AJAX The XMLHttpRequest Object) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( HTTP Messages) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Spring MVC with JdbcTemplate Example) Tj
+ET Q
+q BT 0 g 11.34 125.74 Td
+0 -12.00 Td
+/F2 10.53 Tf (Fri, June 21st 2019) Tj
+ET Q
+q BT 0 g 11.34 103.21 Td
+0 -12.00 Td
+/F1 9.00 Tf (8:58 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://dzone.com/articles/spring-mvc-example-for-user-registration-and-login-1) Tj
+ET Q
+q BT 0 g 11.34 82.21 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Spring MVC Example for User Registration and Login - DZone Web Dev) Tj
+ET Q
+q BT 0 g 11.34 61.21 Td
+0 -12.00 Td
+/F1 9.00 Tf (3:50 PM ) Tj
+/F2 9.00 Tf (ajay.kuttysankaran) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://stackoverflow.com/questions/17444410/where-is-the-exact-location-of-spring-config-file-and-web-xml) Tj
+ET Q
+q BT 0 g 11.34 40.21 Td
+0 -12.00 Td
+ET Q
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<</Length 4137>>
+stream
+0.57 w
+0 G
+q BT 0 g 11.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Where is the exact location of spring config file and web.xml?) Tj
+ET Q
+q BT 0 g 11.34 820.89 Td
+0 -12.00 Td
+/F1 9.00 Tf (5:51 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/jdbc/core/JdbcTemplate.html) Tj
+ET Q
+q BT 0 g 11.34 798.36 Td
+0 -12.00 Td
+0.000 g
+/F2 10.53 Tf (Tue, June 25th 2019) Tj
+ET Q
+q BT 0 g 11.34 751.72 Td
+0 -12.00 Td
+/F1 9.00 Tf (2:17 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.baeldung.com/spring-xml-vs-java-config) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://stackoverflow.com/questions/47552835/the-type-webmvcconfigureradapter-is-deprecated) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://stackoverflow.com/questions/27539610/order-of-loading-contextconfiglocation-in-web-xml-of-spring-servlet-project) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://stackoverflow.com/questions/3652090/difference-between-applicationcontext-xml-and-spring-servlet-xml-in-spring-frame) Tj
+ET Q
+q BT 0 g 11.34 658.62 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Bootstrap a Web Application with Spring 5 | Baeldung) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Spring: web.xml vs Initializer | Baeldung) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( The type WebMvcConfigurerAdapter is deprecated) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Order of loading contextConfigLocation in web.xml of Spring Servlet project) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( Difference between applicationContext.xml and spring-servlet.xml in Spring Framework) Tj
+ET Q
+q BT 0 g 11.34 588.09 Td
+0 -12.00 Td
+/F2 10.53 Tf (Thu, June 27th 2019) Tj
+ET Q
+q BT 0 g 11.34 565.56 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:28 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: package com.kgisl.springbeanscope;) Tj
+ET Q
+q BT 0 g 11.34 532.51 Td
+0 -12.00 Td
+/F1 9.00 Tf (import org.springframework.context.annotation.Scope;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.context.annotation.ScopedProxyMode;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.stereotype.Component;) Tj
+ET Q
+q BT 0 g 11.34 487.51 Td
+0 -12.00 Td
+/F1 9.00 Tf (/**) Tj
+ET Q
+q BT 0 g 31.34 421.84 Td
+0 -12.00 Td
+/F1 9.00 Tf (GreetingService) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( */) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Component) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( // ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Scope) Tj
+0.000 g
+/F1 9.00 Tf (\("singleton"\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Scope) Tj
+0.000 g
+/F1 9.00 Tf (\("prototype"\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Scope) Tj
+0.000 g
+/F1 9.00 Tf (\(value="request", proxyMode =ScopedProxyMode.TARGET_CLASS\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( public class GreetingService {) Tj
+ET Q
+q BT 0 g 31.34 310.76 Td
+0 -12.00 Td
+/F1 9.00 Tf (public String greet\(\){) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( return "Hello";) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 225.42 Td
+0 -12.00 Td
+/F1 9.00 Tf (package com.kgisl.springbeanscope;) Tj
+ET Q
+q BT 0 g 11.34 180.31 Td
+0 -12.00 Td
+/F1 9.00 Tf (import org.springframework.beans.factory.annotation.Autowired;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.context.annotation.Scope;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.bind.annotation.GetMapping;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.bind.annotation.RequestMapping;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.bind.annotation.RestController;) Tj
+ET Q
+q BT 0 g 11.34 111.31 Td
+0 -12.00 Td
+/F1 9.00 Tf (/**) Tj
+ET Q
+q BT 0 g 31.34 57.70 Td
+0 -12.00 Td
+/F1 9.00 Tf (HelloController) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( */) Tj
+0 -12.00 Td
+ET Q
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<</Length 3086>>
+stream
+0.57 w
+0 G
+q BT 0 g 31.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@RestController) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@RequestMapping) Tj
+0.000 g
+/F1 9.00 Tf (\("/"\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( public class HelloController {) Tj
+ET Q
+q BT 0 g 31.34 754.71 Td
+0 -12.00 Td
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Autowired) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( private GreetingService greetingService;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@GetMapping) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( public String getall\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( String myGreet=greetingService.greet\(\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( System.out.println\(greetingService\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( return "HelloController "+myGreet;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 621.36 Td
+0 -12.00 Td
+/F1 9.00 Tf (}) Tj
+ET Q
+q BT 0 g 11.34 600.36 Td
+0 -12.00 Td
+/F1 9.00 Tf (package com.kgisl.springbeanscope;) Tj
+ET Q
+q BT 0 g 11.34 543.20 Td
+0 -12.00 Td
+/F1 9.00 Tf (import org.springframework.beans.factory.annotation.Autowired;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.context.annotation.Scope;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.bind.annotation.DeleteMapping;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.bind.annotation.GetMapping;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.bind.annotation.PutMapping;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.bind.annotation.RequestMapping;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.bind.annotation.RestController;) Tj
+ET Q
+q BT 0 g 11.34 450.20 Td
+0 -12.00 Td
+/F1 9.00 Tf (/**) Tj
+ET Q
+q BT 0 g 31.34 396.59 Td
+0 -12.00 Td
+/F1 9.00 Tf (HelloController) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( */) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@RestController) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@RequestMapping) Tj
+0.000 g
+/F1 9.00 Tf (\("/home"\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( public class HomeController {) Tj
+ET Q
+q BT 0 g 31.34 213.09 Td
+0 -12.00 Td
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Autowired) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( private GreetingService greetingService;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@GetMapping) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( public String getall\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( String myGreet=greetingService.greet\(\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( System.out.println\(greetingService\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( return "HomeController "+myGreet;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@PutMapping) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( public String put\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( String myGreet=greetingService.greet\(\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( System.out.println\(greetingService\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( return "HomeController "+myGreet;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+0 -12.00 Td
+ET Q
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<</Length 4862>>
+stream
+0.57 w
+0 G
+q BT 0 g 31.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@DeleteMapping) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( public String delete\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( String myGreet=greetingService.greet\(\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( System.out.println\(greetingService\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( return "HomeController "+myGreet;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 732.54 Td
+0 -12.00 Td
+/F1 9.00 Tf (}) Tj
+ET Q
+q BT 0 g 11.34 711.54 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:28 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.concretepage.com/spring/spring-bean-scopes) Tj
+ET Q
+q BT 0 g 11.34 690.54 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Spring Bean Scopes) Tj
+ET Q
+q BT 0 g 11.34 669.54 Td
+0 -12.00 Td
+/F1 9.00 Tf (5:26 PM ) Tj
+/F2 9.00 Tf (supriya.sanjay) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.javatpoint.com/spring-tutorial-dependency-injection-by-constructor) Tj
+ET Q
+q BT 0 g 11.34 648.54 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Spring Constructor injection - javatpoint) Tj
+ET Q
+q BT 0 g 11.34 627.54 Td
+0 -12.00 Td
+/F1 9.00 Tf (5:27 PM ) Tj
+/F2 9.00 Tf (supriya.sanjay) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/BeanFactory.html) Tj
+ET Q
+q BT 0 g 11.34 605.01 Td
+0 -12.00 Td
+0.000 g
+/F2 10.53 Tf (Mon, July 1st 2019) Tj
+ET Q
+q BT 0 g 11.34 576.46 Td
+0 -12.00 Td
+/F1 9.00 Tf (4:01 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: <!DOCTYPE html>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <html lang="en">) Tj
+ET Q
+q BT 0 g 11.34 519.35 Td
+0 -12.00 Td
+/F1 9.00 Tf (<head>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta charset="UTF-8">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta name="viewport" content="width=device-width, initial-scale=1.0">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta http-equiv="X-UA-Compatible" content="ie=edge">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <title>Document</title>) Tj
+ET Q
+q BT 0 g 11.34 444.33 Td
+0 -12.00 Td
+/F1 9.00 Tf (<script src="country.js"></script>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </head>) Tj
+ET Q
+q BT 0 g 11.34 339.01 Td
+0 -12.00 Td
+/F1 9.00 Tf (<body onload="app.FetchAll\(\)">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <form action="javascript:void\(0\);" method="POST" onsubmit="app.Add\(\)">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <input type="text" id="countryName" placeholder="New country">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <input type="submit" id="submit" value="Add">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </form>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <!-- <div id="countriesList"></div> -->) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <table>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <tr>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <th>Name</th>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </tr>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <tbody id="countriesList">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </tbody>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </table>) Tj
+ET Q
+q BT 0 g 11.34 174.01 Td
+0 -12.00 Td
+/F1 9.00 Tf (</body>) Tj
+ET Q
+q BT 0 g 11.34 153.01 Td
+0 -12.00 Td
+/F1 9.00 Tf (</html>) Tj
+ET Q
+q BT 0 g 11.34 119.96 Td
+0 -12.00 Td
+/F1 9.00 Tf (4:01 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: var app = new function \(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.countries = ['France', 'Germany', 'England', 'Spain', 'Belgium', 'Italy', 'Portugal', 'Irland', 'Luxembourg'];) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // this.countries = [];) Tj
+ET Q
+q BT 0 g 11.34 74.96 Td
+0 -12.00 Td
+/F5 7.31 Tf (this.FetchAll = function \(\) { alert\("this.countries.length =" + this.countries.length\); // this.data += '&lt;table>&lt;tr>&lt;th>Name&lt;/th>&lt;/tr>'; var data = ''; if \(this.countries.length > 0\) { for \(i = 0; i &lt; this.countries.length; i++\) { data += '&lt;tr>'; data += '&lt;td>' + this.countries[i] + '&lt;/td>'; data += '&lt;td>&lt;button onclick="app.Edit\(' + i + '\)">Edit&lt;/button>&lt;/td>'; data += '&lt;td>&lt;button onclick="app.Delete\(' + i + '\)">Delete&lt;/button>&lt;/td>'; data += '&lt;/tr>'; } // this.data += '&lt;table>'; console.log\(data\); document.getElementById\("countriesList"\).innerHTML = data; } }; this.Edit = function \(item\) { document.getElementById\('submit'\).value = "Update" alert\(this.countries[item]\); document.getElementById\('countryName'\).value = this.countries[item]; this.countries.splice\(0, 1, document.getElementById\('countryName'\).value\); app.FetchAll\(\); }; this.Delete = function \(item\) { alert\(this.countries[item]\); this.countries.splice\(item, 1\); app.FetchAll\(\); }; this.Add = function \(\) { document.getElementById\('countryName'\).value; // alert\(document.getElementById\('countryName'\).value\); this.countries.push\(document.getElementById\('countryName'\).value\); app.FetchAll\(\); };) Tj
+ET Q
+q BT 0 g 11.34 53.96 Td
+0 -12.00 Td
+/F1 9.00 Tf (}) Tj
+ET Q
+q BT 0 g 11.34 32.96 Td
+0 -12.00 Td
+ET Q
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<</Length 3535>>
+stream
+0.57 w
+0 G
+q BT 0 g 11.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+/F1 9.00 Tf (// app.FetchAll\(\);) Tj
+ET Q
+q BT 0 g 11.34 814.86 Td
+0 -12.00 Td
+/F1 9.00 Tf (5:00 PM ) Tj
+/F2 9.00 Tf (naveenkumar.a) Tj
+/F1 9.00 Tf (: ====================================country.html==================<!DOCTYPE html>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <html lang="en">) Tj
+ET Q
+q BT 0 g 11.34 757.76 Td
+0 -12.00 Td
+/F1 9.00 Tf (<head>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta charset="UTF-8">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta name="viewport" content="width=device-width, initial-scale=1.0">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta http-equiv="X-UA-Compatible" content="ie=edge">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <title>Document</title>) Tj
+ET Q
+q BT 0 g 11.34 682.73 Td
+0 -12.00 Td
+/F1 9.00 Tf (<script src="country.js"></script>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </head>) Tj
+ET Q
+q BT 0 g 11.34 577.42 Td
+0 -12.00 Td
+/F1 9.00 Tf (<body onload="app.FetchAll\(\)">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <form action="javascript:void\(0\);" method="POST" onsubmit="app.AddorUpdate\(\)">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <input type="text" id="countryName" placeholder="New country">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <input type="submit" id="submit" value="Add">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </form>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <!-- <div id="countriesList"></div> -->) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <table>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <tr>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <th>Name</th>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </tr>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <tbody id="countriesList">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </tbody>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </table>) Tj
+ET Q
+q BT 0 g 11.34 412.42 Td
+0 -12.00 Td
+/F1 9.00 Tf (</body>) Tj
+ET Q
+q BT 0 g 11.34 391.42 Td
+0 -12.00 Td
+/F1 9.00 Tf (</html>) Tj
+ET Q
+q BT 0 g 11.34 346.31 Td
+0 -12.00 Td
+/F1 9.00 Tf (===================================country.js====================) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( var app = new function \(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.countries = ['France', 'Germany', 'England', 'Spain', 'Belgium', 'Italy', 'Portugal', 'Irland', 'Luxembourg'];) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // this.countries = [];) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.updateItem="";) Tj
+ET Q
+q BT 0 g 11.34 247.18 Td
+0 -12.00 Td
+/F1 9.00 Tf (this.FetchAll = function \(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // alert\("this.countries.length =" + this.countries.length\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // this.data += '<table><tr><th>Name</th></tr>';) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( var data = '';) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( if \(this.countries.length > 0\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( for \(i = 0; i < this.countries.length; i++\) {) Tj
+ET Q
+q BT 0 g 11.34 166.18 Td
+0 -12.00 Td
+/F5 7.31 Tf (data += '&lt;tr>'; data += '&lt;td>' + this.countries[i] + '&lt;/td>'; data += '&lt;td>&lt;button onclick="app.Edit\(' + i + '\)">Edit&lt;/button>&lt;/td>'; data += '&lt;td>&lt;button onclick="app.Delete\(' + i + '\)">Delete&lt;/button>&lt;/td>'; data += '&lt;/tr>'; } // this.data += '&lt;table>'; console.log\(data\); document.getElementById\("countriesList"\).innerHTML = data; }) Tj
+ET Q
+q BT 0 g 11.34 145.18 Td
+0 -12.00 Td
+/F1 9.00 Tf (};) Tj
+ET Q
+q BT 0 g 11.34 100.07 Td
+0 -12.00 Td
+/F1 9.00 Tf (this.Edit = function \(item\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.updateItem=item;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( document.getElementById\('submit'\).value = "Update";) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( document.getElementById\('countryName'\).value = this.countries[item];) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( };) Tj
+ET Q
+q BT 0 g 11.34 6.97 Td
+0 -12.00 Td
+ET Q
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<</Length 3444>>
+stream
+0.57 w
+0 G
+q BT 0 g 11.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+/F1 9.00 Tf (this.Delete = function \(item\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( alert\(this.countries[item]\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.countries.splice\(item, 1\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( app.FetchAll\(\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( };) Tj
+ET Q
+q BT 0 g 11.34 754.81 Td
+0 -12.00 Td
+/F1 9.00 Tf (this.Add = function \(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( document.getElementById\('countryName'\).value;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // alert\(document.getElementById\('countryName'\).value\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.countries.push\(document.getElementById\('countryName'\).value\);) Tj
+ET Q
+q BT 0 g 11.34 697.81 Td
+0 -12.00 Td
+/F5 7.31 Tf (app.FetchAll\(\);) Tj
+ET Q
+q BT 0 g 11.34 604.49 Td
+0 -12.00 Td
+/F1 9.00 Tf (};) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.AddorUpdate = function \(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( var action = document.getElementById\('submit'\).value;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( if \(action != "Update"\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( document.getElementById\('countryName'\).value;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.countries.push\(document.getElementById\('countryName'\).value\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( else {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( var updateCountry = document.getElementById\('countryName'\).value;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( alert\(updateCountry\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.countries.splice\(this.updateItem, 1, updateCountry\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.updateItem="";) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( document.getElementById\('submit'\).value = "add";) Tj
+ET Q
+q BT 0 g 11.34 439.49 Td
+0 -12.00 Td
+/F5 7.31 Tf (} app.FetchAll\(\);) Tj
+ET Q
+q BT 0 g 11.34 412.47 Td
+0 -12.00 Td
+/F1 9.00 Tf (};) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 379.47 Td
+0 -12.00 Td
+/F1 9.00 Tf (// app.FetchAll\(\);) Tj
+ET Q
+q BT 0 g 11.34 356.94 Td
+0 -12.00 Td
+/F2 10.53 Tf (Tue, July 2nd 2019) Tj
+ET Q
+q BT 0 g 11.34 334.41 Td
+0 -12.00 Td
+/F1 9.00 Tf (1:06 PM ) Tj
+/F2 9.00 Tf (mohanasankari.g) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (http://dummy.restapiexample.com/) Tj
+ET Q
+q BT 0 g 11.34 283.28 Td
+0 -12.00 Td
+/F1 9.00 Tf (https://www.w3schools.com/js/js_ajax_http.asp) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.w3schools.com/xml/xml_http.asp) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://gist.github.com/EtienneR/2f3ab345df502bd3d13e) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi/related?hl=en) Tj
+ET Q
+q BT 0 g 11.34 196.25 Td
+0 -12.00 Td
+0.000 g
+/F3 9.00 Tf (://) Tj
+/F1 9.00 Tf (/*) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.google.com/search?q=cors) Tj
+ET Q
+q BT 0 g 11.34 66.83 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (2:48 PM ) Tj
+/F2 9.00 Tf (mohanasankari.g) Tj
+/F1 9.00 Tf (: =============================emp.html) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <!DOCTYPE html>) Tj
+0 -12.00 Td
+ET Q
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<</Length 5412>>
+stream
+0.57 w
+0 G
+q BT 0 g 11.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+/F1 9.00 Tf ( <html lang="en">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <head>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta charset="UTF-8">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta name="viewport" content="width=device-width, initial-scale=1.0">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <meta http-equiv="X-UA-Compatible" content="ie=edge">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <title>Document</title>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <script src="emp.js"></script>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </head>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <body>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <input type="text" name="name" id="name">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <input type="text" name="salary" id="salary">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <input type="text" name="age" id="age">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( <input type="submit" value="submit" onclick="app.add\(\)">) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </body>) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( </html>) Tj
+ET Q
+q BT 0 g 11.34 652.89 Td
+0 -12.00 Td
+/F1 9.00 Tf (===================================emp.js) Tj
+ET Q
+q BT 0 g 11.34 619.84 Td
+0 -12.00 Td
+/F1 9.00 Tf (var app = new function \(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( this.add = function \(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // {"name":"test","salary":"123","age":"23"}) Tj
+ET Q
+q BT 0 g 11.34 574.84 Td
+0 -12.00 Td
+/F5 7.31 Tf (var data = {}; data.name = document.getElementById\("name"\).value; data.salary = document.getElementById\("salary"\).value; data.age = document.getElementById\("age"\).value; var json = JSON.stringify\(data\); alert\(json\); console.log\(json\); // Post a user var xhttp = new XMLHttpRequest\(\); xhttp.open\("POST", "<http://dummy.restapiexample.com/api/v1/create>", true\); xhttp.send\(json\); xhttp.onreadystatechange = function \(\) { if \(this.readyState == 4 && this.status == 200\) { // Typical action to be performed when the document is ready: // document.getElementById\("demo"\).innerHTML = xhttp.responseText; } }; };) Tj
+ET Q
+q BT 0 g 11.34 553.84 Td
+0 -12.00 Td
+/F1 9.00 Tf (}) Tj
+ET Q
+q BT 0 g 11.34 531.31 Td
+0 -12.00 Td
+/F2 10.53 Tf (Wed, July 3rd 2019) Tj
+ET Q
+q BT 0 g 11.34 490.70 Td
+0 -12.00 Td
+/F1 9.00 Tf (11:21 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://start.spring.io/) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://stackoverflow.com/questions/33619532/configuration-using-annotation-springbootapplication) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://stackoverflow.com/questions/35005158/what-is-the-difference-between-componentscan-and-enableautoconfiguration-in-sp) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html) Tj
+ET Q
+q BT 0 g 11.34 427.67 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Configuration using annotation ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@SpringBootApplication) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( What is the difference between ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@ComponentScan) Tj
+0.000 g
+/F1 9.00 Tf ( and ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@EnableAutoConfiguration) Tj
+0.000 g
+/F1 9.00 Tf ( in Spring Boot?) Tj
+ET Q
+q BT 0 g 11.34 393.14 Td
+0 -12.00 Td
+/F2 10.53 Tf (Thu, July 4th 2019) Tj
+ET Q
+q BT 0 g 11.34 370.61 Td
+0 -12.00 Td
+/F1 9.00 Tf (5:19 PM ) Tj
+/F2 9.00 Tf (supriya.sanjay) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.boraji.com/spring-mvc-5-static-resources-handling-example) Tj
+ET Q
+q BT 0 g 11.34 349.61 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Spring MVC 5 - Static resources handling example | BORAJI.COM) Tj
+ET Q
+q BT 0 g 11.34 328.61 Td
+0 -12.00 Td
+/F1 9.00 Tf (5:19 PM ) Tj
+/F2 9.00 Tf (supriya.sanjay) Tj
+/F1 9.00 Tf (: package com.memorynotfound.controller;) Tj
+ET Q
+q BT 0 g 11.34 295.56 Td
+0 -12.00 Td
+/F1 9.00 Tf (import javax.servlet.ServletContext;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import javax.servlet.ServletException;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import javax.servlet.ServletRegistration;) Tj
+ET Q
+q BT 0 g 11.34 232.48 Td
+0 -12.00 Td
+/F1 9.00 Tf (import org.springframework.web.context.ContextLoaderListener;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.servlet.DispatcherServlet;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;) Tj
+ET Q
+q BT 0 g 11.34 145.35 Td
+0 -12.00 Td
+/F1 9.00 Tf (public class MvcWebApplicationInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( public void onStartup\(ServletContext servletContext\) throws ServletException) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( AnnotationConfigWebApplicationContext context = new AnnotationConfigWebApplicationContext\(\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( context.scan\("com.memorynotfound"\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( servletContext.addListener\(new ContextLoaderListener\(context\)\);) Tj
+ET Q
+q BT 0 g 11.34 64.35 Td
+0 -12.00 Td
+/F5 7.31 Tf (ServletRegistration.Dynamic dispatcher = servletContext.addServlet\("mvc", new DispatcherServlet\(context\)\); dispatcher.setLoadOnStartup\(1\); dispatcher.addMapping\("/"\);) Tj
+ET Q
+q BT 0 g 11.34 43.35 Td
+0 -12.00 Td
+ET Q
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<</Length 3994>>
+stream
+0.57 w
+0 G
+q BT 0 g 11.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+/F1 9.00 Tf (}) Tj
+ET Q
+q BT 0 g 11.34 802.81 Td
+0 -12.00 Td
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Override) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( protected Class<?>[] getRootConfigClasses\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( return null;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 727.73 Td
+0 -12.00 Td
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Override) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( protected Class<?>[] getServletConfigClasses\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( return new Class[] { MvcWebConfig.class };) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 652.65 Td
+0 -12.00 Td
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Override) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( protected String[] getServletMappings\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( return new String[] { "/" };) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 595.65 Td
+0 -12.00 Td
+/F1 9.00 Tf (}) Tj
+ET Q
+q BT 0 g 11.34 574.65 Td
+0 -12.00 Td
+/F1 9.00 Tf (5:19 PM ) Tj
+/F2 9.00 Tf (supriya.sanjay) Tj
+/F1 9.00 Tf (: package com.memorynotfound.controller;) Tj
+ET Q
+q BT 0 g 11.34 553.65 Td
+0 -12.00 Td
+/F1 9.00 Tf (import java.util.concurrent.TimeUnit;) Tj
+ET Q
+q BT 0 g 11.34 532.65 Td
+0 -12.00 Td
+/F1 9.00 Tf (import javax.sql.DataSource;) Tj
+ET Q
+q BT 0 g 11.34 505.63 Td
+0 -12.00 Td
+/F1 9.00 Tf (// import com.kgisl.springjson.dao.ContactDAO;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // import com.kgisl.springjson.dao.ContactDAOImpl;) Tj
+ET Q
+q BT 0 g 11.34 424.42 Td
+0 -12.00 Td
+/F1 9.00 Tf (import org.springframework.context.annotation.Bean;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.context.annotation.ComponentScan;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.context.annotation.Configuration;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.http.CacheControl;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.jdbc.datasource.DriverManagerDataSource;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.servlet.config.annotation.EnableWebMvc;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.servlet.config.annotation.ViewResolverRegistry;) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;) Tj
+ET Q
+q BT 0 g 11.34 289.34 Td
+0 -12.00 Td
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Configuration) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@EnableWebMvc) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@ComponentScan) Tj
+0.000 g
+/F1 9.00 Tf (\("com.memorynotfound"\)) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( public class MvcWebConfig implements WebMvcConfigurer {) Tj
+ET Q
+q BT 0 g 11.34 214.26 Td
+0 -12.00 Td
+/F1 9.00 Tf (// ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Override) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( public void configureViewResolvers\(ViewResolverRegistry registry\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( registry.jsp\("/WEB-INF/view/", ".jsp"\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 133.15 Td
+0 -12.00 Td
+/F1 9.00 Tf (/**) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( * Static Resource \(CSS or JS\) mapping) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( */) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Override) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( public void addResourceHandlers\(ResourceHandlerRegistry registry\) {) Tj
+ET Q
+q BT 0 g 11.34 64.15 Td
+0 -12.00 Td
+/F5 7.31 Tf (// Register resource handler for CSS and JS registry.addResourceHandler\("/resources/**"\).addResourceLocations\("classpath:/statics/", "D:/statics/"\) .setCacheControl\(CacheControl.maxAge\(2, TimeUnit.HOURS\).cachePublic\(\)\); // Register resource handler for images registry.addResourceHandler\("/images/**"\).addResourceLocations\("/WEB-INF/images/"\) .setCacheControl\(CacheControl.maxAge\(2, TimeUnit.HOURS\).cachePublic\(\)\);) Tj
+ET Q
+q BT 0 g 11.34 43.15 Td
+0 -12.00 Td
+ET Q
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<</Length 4276>>
+stream
+0.57 w
+0 G
+q BT 0 g 11.34 841.89 rgb(0, 0, 0) Td
+0 -12.00 Td
+/F1 9.00 Tf (}) Tj
+ET Q
+q BT 0 g 11.34 784.73 Td
+0 -12.00 Td
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Bean) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( public DataSource getDataSource\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( DriverManagerDataSource dataSource = new DriverManagerDataSource\(\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( dataSource.setDriverClassName\("com.mysql.jdbc.Driver"\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( dataSource.setUrl\("jdbc:) Tj
+/F1 9.00 Tf (\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( dataSource.setUsername\("root"\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( dataSource.setPassword\(""\);) Tj
+ET Q
+q BT 0 g 11.34 691.73 Td
+0 -12.00 Td
+/F5 7.31 Tf (return dataSource;) Tj
+ET Q
+q BT 0 g 11.34 670.73 Td
+0 -12.00 Td
+/F1 9.00 Tf (}) Tj
+ET Q
+q BT 0 g 11.34 625.63 Td
+0 -12.00 Td
+/F1 9.00 Tf (// ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (@Bean) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( // public ContactDAO getContactDAO\(\) {) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // return new ContactDAOImpl\(getDataSource\(\)\);) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( // }) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( }) Tj
+ET Q
+q BT 0 g 11.34 555.10 Td
+0 -12.00 Td
+/F2 10.53 Tf (Fri, July 5th 2019) Tj
+ET Q
+q BT 0 g 11.34 508.46 Td
+0 -12.00 Td
+/F1 9.00 Tf (1:01 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (http://hibernate.org/orm/documentation/5.3/) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://docs.jboss.org/hibernate/orm/5.3/userguide/html_single/Hibernate_User_Guide.html) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.slideshare.net/intellibitz/hibernate-developer-reference) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://github.com/baraneetharan/hibernatexml) Tj
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf ( ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.objectdb.com/api/java/jpa/annotations) Tj
+ET Q
+q BT 0 g 11.34 427.41 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Hibernate Developer Reference) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( baraneetharan/hibernatexml) Tj
+0 -12.00 Td
+/F1 9.00 Tf ( JPA 2 Annotations - The Complete Reference \(JavaDoc\)) Tj
+ET Q
+q BT 0 g 11.34 380.88 Td
+0 -12.00 Td
+/F2 10.53 Tf (Wed, July 10th 2019) Tj
+ET Q
+q BT 0 g 11.34 358.35 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:26 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://bushansirgur.in/complete-crud-application-in-spring-mvc-and-hibernate-xml-configuration/) Tj
+ET Q
+q BT 0 g 11.34 337.35 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Complete CRUD Application in Spring MVC and Hibernate [XML Configuration] - B2 Tech) Tj
+ET Q
+q BT 0 g 11.34 314.82 Td
+0 -12.00 Td
+/F2 10.53 Tf (Mon, July 15th 2019) Tj
+ET Q
+q BT 0 g 11.34 292.29 Td
+0 -12.00 Td
+/F1 9.00 Tf (9:29 AM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://gist.github.com/baraneetharan/9f510cedab43983ba1cf47f3db1d01aa) Tj
+ET Q
+q BT 0 g 11.34 269.76 Td
+0 -12.00 Td
+0.000 g
+/F2 10.53 Tf (Tue, July 16th 2019) Tj
+ET Q
+q BT 0 g 11.34 247.23 Td
+0 -12.00 Td
+/F1 9.00 Tf (4:46 PM ) Tj
+/F2 9.00 Tf (baraneetharan.r) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://netsurfingzone.com/wp-content/uploads/2018/10/jpa1.png) Tj
+ET Q
+q BT 0 g 11.34 224.70 Td
+0 -12.00 Td
+0.000 g
+/F2 10.53 Tf (Wed, July 17th 2019) Tj
+ET Q
+q BT 0 g 11.34 202.17 Td
+0 -12.00 Td
+/F1 9.00 Tf (6:40 PM ) Tj
+/F2 9.00 Tf (supriya.sanjay) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.javaguides.net/2018/11/spring-mvc-5-hibernate-5-jsp-mysql-crud-tutorial.html) Tj
+ET Q
+q BT 0 g 11.34 181.17 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Spring MVC 5 + Hibernate 5 + JSP + MySQL CRUD Tutorial) Tj
+ET Q
+q BT 0 g 11.34 160.17 Td
+0 -12.00 Td
+/F1 9.00 Tf (6:40 PM ) Tj
+/F2 9.00 Tf (supriya.sanjay) Tj
+/F1 9.00 Tf (: ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (https://www.javaguides.net/2018/11/spring-mvc-5-spring-data-jpa-hibernate-jsp-mysql-tutorial.html) Tj
+ET Q
+q BT 0 g 11.34 139.17 Td
+0 -12.00 Td
+0.000 g
+/F1 9.00 Tf (Spring MVC 5 + Spring Data JPA + Hibernate 5 + JSP + MySQL Tutorial) Tj
+ET Q
+q BT 0 g 11.34 118.17 Td
+0 -12.00 Td
+/F1 9.00 Tf (build by ) Tj
+0.000 0.000 0.933 rg
+/F1 9.00 Tf (slackext.com/printer) Tj
+ET Q
+Q
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R ]
+/Count 10
+>>
+endobj
+23 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+24 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+25 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+26 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+27 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+28 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+29 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+30 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+31 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+32 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+33 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+34 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+35 0 obj
+<</BaseFont/ZapfDingbats/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 23 0 R
+/F2 24 0 R
+/F3 25 0 R
+/F4 26 0 R
+/F5 27 0 R
+/F6 28 0 R
+/F7 29 0 R
+/F8 30 0 R
+/F9 31 0 R
+/F10 32 0 R
+/F11 33 0 R
+/F12 34 0 R
+/F13 35 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+36 0 obj
+<<
+/Producer (jsPDF 1.x-master)
+/CreationDate (D:20190719165633+05'30')
+>>
+endobj
+37 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 38
+0000000000 65535 f 
+0000043465 00000 n 
+0000044825 00000 n 
+0000000009 00000 n 
+0000000118 00000 n 
+0000004212 00000 n 
+0000004321 00000 n 
+0000009427 00000 n 
+0000009536 00000 n 
+0000013723 00000 n 
+0000013833 00000 n 
+0000016970 00000 n 
+0000017081 00000 n 
+0000021994 00000 n 
+0000022105 00000 n 
+0000025691 00000 n 
+0000025802 00000 n 
+0000029297 00000 n 
+0000029408 00000 n 
+0000034871 00000 n 
+0000034982 00000 n 
+0000039027 00000 n 
+0000039138 00000 n 
+0000043583 00000 n 
+0000043674 00000 n 
+0000043770 00000 n 
+0000043869 00000 n 
+0000043972 00000 n 
+0000044061 00000 n 
+0000044155 00000 n 
+0000044252 00000 n 
+0000044353 00000 n 
+0000044446 00000 n 
+0000044538 00000 n 
+0000044632 00000 n 
+0000044730 00000 n 
+0000045066 00000 n 
+0000045157 00000 n 
+trailer
+<<
+/Size 38
+/Root 37 0 R
+/Info 36 0 R
+>>
+startxref
+45261
+%%EOF
